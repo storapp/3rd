@@ -89,7 +89,7 @@ const Navbar = () => {
             </NavLink>
           </li>
           <li>
-            <NavLink className="link" to="/result">
+            <NavLink className="link" to="/">
               SERVICES
             </NavLink>
           </li>

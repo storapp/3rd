@@ -22,7 +22,7 @@ const Home = () => {
         id="service"
       >
         <h2 className="text-blue-500 font-bold text-4xl text-center">
-          Plumbing Repairing Service
+          Our Plumbing Services
         </h2>
         <p
           className="text-gray-500 max-w-lg mx-auto text-center py-2"
