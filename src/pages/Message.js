@@ -4,7 +4,7 @@ import { useForm, ValidationError } from "@formspree/react";
 import Redirect from "../components/Redirect";
 
 const Message = () => {
-  const [state, handleSubmit] = useForm("mlekdkoe");
+  const [state, handleSubmit] = useForm("mqkjgawz");
   if (state.succeeded) {
     return <Redirect />;
   }
