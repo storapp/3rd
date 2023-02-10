@@ -53,10 +53,7 @@ const Navbar = () => {
             </span>
             <div className="flex flex-col justify-center items-center">
               <p className="font-bold">Email us</p>
-              <a
-                href="mailto:kasbassnigenterprises@gmail.com"
-                className="text-sm grey"
-              >
+              <a href="mailto:info@noels.co.za" className="text-sm grey">
                 info@noels.co.za
               </a>
             </div>
@@ -67,7 +64,7 @@ const Navbar = () => {
             </span>
             <div className="flex flex-col justify-center items-center">
               <p className="font-bold">Call us on</p>
-              <a href="tel:+2348147603570" className="text-sm grey">
+              <a href="tel:+27839856770" className="text-sm grey">
                 083 9856770
               </a>
             </div>
