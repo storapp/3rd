@@ -27,7 +27,7 @@ const Footer = () => {
               </span>
               <span className="text-sm flex items-center">
                 <MapPinIcon className="text-blue-500 h-4 w-4 mx-1" />
-                55 New st, Esterville, Paarl 7646
+                55 New St, Esterville, Paarl 7646
               </span>
               <span className="text-sm flex items-center">
                 <PhoneIcon className="text-blue-500 h-4 w-4 mx-1" />
