@@ -6,24 +6,22 @@ export const feedback = [
   {
     image: img1,
     alt: "customer one",
-    message:'Kasbass was fantastic!!..polite, efficient, neat and extremely profession plus he’s a nice guy to boot!. He did an excellent job for us and we are very happy with our new drain system..Thanks to Joe and all the folks at Meticulous!"',
-    name: "Nat Reynolds",
+    message: `I recently had the pleasure of working with Noel's Plumbing and I couldn't be happier with the experience. From start to finish, their team was professional, knowledgeable, and efficient. They quickly diagnosed and resolved my plumbing issue, and took the time to educate me on how to prevent similar problems in the future. Their customer service was top-notch and they went above and beyond to make sure I was completely satisfied with the work they did. I highly recommend Noel's Plumbing to anyone in need of plumbing services. They are the best in the business!`,
+    name: "Johan Venter",
     prof: "Chief Accountant",
-    },
-    {
-        image: img2,
-        alt: 'Celia Micheal',
-        message: `Kasbass is the best plumbing company I’ve ever worked with.
-        Their technicians are knowledgeable, professional, and reliable. We were extremely pleased with the results
-        and would highly recommend them to anyone in need of plumbing services.`,
-        name: 'Celia Micheal',
-        prof:'Secretary'
-    },
-    {
-        image: img3,
-        alt: "John Frank",  
-        message: 'I thank you so much for the work that was done here, and you always do such a good job for such a reasonable price. Thanks for moving my appointment sooner as well, I believe that prevented some damage to the flooring.',
-        name: 'John Frank',
-        prof: 'Sales Manager'
-    }
+  },
+  {
+    image: img2,
+    alt: "Arnold Cilliers",
+    message: `Noel's Plumbing provided me with exceptional service. They were prompt, friendly, and highly skilled in their trade. The plumbing issue I was having was resolved in a timely manner and the final result was better than I could have imagined. The team at Noel's Plumbing went above and beyond to ensure that I was happy with the work they did and that everything was in proper working order. I am extremely impressed with their professionalism and would highly recommend them to anyone in need of plumbing services. Thank you, Noel's Plumbing, for a job well done!`,
+    name: "Celia Micheal",
+    prof: "Auto Mechanic",
+  },
+  {
+    image: img3,
+    alt: "Nat Reynolds",
+    message: `I recently used Noel's Plumbing for a difficult and time-sensitive issue and I couldn't be happier with the results. The team was professional, efficient, and extremely knowledgeable. They not only fixed the problem but also provided me with valuable advice on how to maintain my plumbing system. Their customer service was outstanding and they went above and beyond to make sure I was completely satisfied with the work they did. I highly recommend Noel's Plumbing to anyone looking for reliable and top-quality plumbing services. Thank you for making a stressful situation a positive experience!`,
+    name: "Nat Reynolds",
+    prof: "Sales Manager",
+  },
 ];

@@ -4,8 +4,8 @@ import Navbar from "../components/Navbar";
 export default function Example() {
   return (
     <>
-    <Navbar />
-    <div className="my-10">
+      <Navbar />
+      <div className="my-10">
         <div className="md:grid md:grid-cols-3 md:gap-6">
           <div className="mt-5 md:col-span-4 md:mt-0">
             <form action="#" method="POST">
@@ -73,9 +73,9 @@ export default function Example() {
                         autoComplete="country-name"
                         className="mt-1 block w-full rounded-md border border-gray-300 bg-white py-2 px-3 shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm"
                       >
-                        <option>United States</option>
-                        <option>Canada</option>
-                        <option>Mexico</option>
+                        <option>South Africa</option>
+                        <option>Namibia</option>
+                        <option>Lesotho</option>
                       </select>
                     </div>
 
